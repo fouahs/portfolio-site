@@ -1,6 +1,5 @@
 :root {
-  --myrtle-green: #357b70;
-  --wintergreen-dream: #489c79;
+  --terracotta: #ca6641;
   --sunray: #e0b354;
   --charleston-green: #2b2b2b;
   --maize: #edc655;
@@ -37,7 +36,7 @@ h3 {
 }
 
 a {
-  color: var(--myrtle-green);
+  color: var(--terracotta);
   text-decoration: var(--no-text-decoration);
 }
 
@@ -48,7 +47,7 @@ a:active {
 button, .button {
   border: none;
   font-family: inherit;
-  background-color: var(--myrtle-green);
+  background-color: var(--terracotta);
   color: white;
   text-decoration: var(--no-text-decoration);
   padding: 10px;

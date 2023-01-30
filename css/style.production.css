@@ -25,18 +25,14 @@ h3 {
 }
 
 a {
-  color: #357b70;
+  color: #ca6641;
   text-decoration: none;
-}
-
-a:active {
-  color: #489c79;
 }
 
 button {
   border: none;
   font-family: inherit;
-  background-color: #357b70;
+  background-color: #ca6641;
   color: white;
   text-decoration: none;
   padding: 10px;
@@ -48,7 +44,7 @@ button {
 .button {
   border: none;
   font-family: inherit;
-  background-color: #357b70;
+  background-color: #bd653d;
   color: white;
   text-decoration: none;
   padding: 10px;
