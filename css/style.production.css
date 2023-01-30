@@ -96,7 +96,7 @@ button:hover, button:focus, .button:hover, .button:focus {
 }
 
 .about-list {
-  padding-left: 0px;
+  padding-left: 0;
 }
 
 .profile, .about {
