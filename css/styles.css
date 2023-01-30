@@ -40,10 +40,6 @@ a {
   text-decoration: var(--no-text-decoration);
 }
 
-a:active {
-  color: var(--wintergreen-dream);
-}
-
 button, .button {
   border: none;
   font-family: inherit;
