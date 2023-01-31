@@ -105,6 +105,16 @@ button:focus,
   text-align: center;
 }
 
+input,
+textarea {
+  margin: auto;
+  display: block;
+}
+
+textarea {
+  margin-bottom: 10px;
+}
+
 .profile__portrait {
   float: left;
   width: 250px;
