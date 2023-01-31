@@ -1,5 +1,4 @@
 :root {
-  --terracotta: #ca6641;
   --sunray: #e0b354;
   --charleston-green: #2b2b2b;
   --maize: #edc655;
@@ -36,14 +35,14 @@ h3 {
 }
 
 a {
-  color: var(--terracotta);
+  color: saddlebrown;
   text-decoration: var(--no-text-decoration);
 }
 
 button, .button {
   border: none;
   font-family: inherit;
-  background-color: var(--terracotta);
+  background-color: saddlebrown;
   color: white;
   text-decoration: var(--no-text-decoration);
   padding: 10px;
